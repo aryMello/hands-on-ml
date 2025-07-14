@@ -1,19 +1,42 @@
-# Machine Learning Courses and Projects
+# 🤖 Hands-On Machine Learning
 
-This repository contains my personal projects, notes, and code from various machine learning courses. I aim to build a solid understanding of machine learning algorithms and best practices.
+This repository contains personal projects, course exercises, and study notes from machine learning courses I've completed. My goal is to deepen my understanding of classic and modern ML algorithms by applying them to real datasets in Python using industry-standard libraries.
 
-## Courses Covered
-- **Machine Learning Specialization**: DeepLearning.AI, Stanford University (Coursera)
-  - Supervised Machine Learning: Regression and Classification
-  - Advanced Learning Algorithms
+---
+
+### 📚 Courses Covered
+
+- **Machine Learning Specialization** – *DeepLearning.AI & Stanford University*  
+  - Supervised Learning: Regression & Classification  
+  - Advanced Learning Algorithms  
   - Unsupervised Learning, Recommenders, Reinforcement Learning
 
-## Technologies Used
-- Python
-- scikit-learn
-- TensorFlow
-- PyTorch
-- NumPy, Pandas
+---
 
-## License Note:
-This repository is intended for educational purposes only. All code and content in this repository are provided for personal learning and non-commercial use. You may *view* and *study* the code.
+### 🧰 Tools & Technologies
+
+- Python · NumPy · Pandas  
+- scikit-learn · TensorFlow · PyTorch  
+- Matplotlib · Seaborn · Jupyter Notebooks
+
+---
+
+### 🧠 Learning Outcomes
+
+- Built regression, classification, clustering, and recommender models  
+- Implemented pipelines with data cleaning, preprocessing, and model tuning  
+- Applied model evaluation metrics (AUC, precision/recall, RMSE)  
+- Practiced ML design decisions, overfitting control, and interoperability
+
+---
+
+### 📜 License Note
+
+This repository is intended for **educational purposes only**. All content is shared for personal learning and non-commercial reference. Please feel free to explore, study, and adapt with proper attribution.
+
+---
+
+### 👤 Author
+
+**Ana B. Vieira de Melo**  
+[GitHub](https://github.com/aryMello) | [LinkedIn](https://linkedin.com/in/anavm)
